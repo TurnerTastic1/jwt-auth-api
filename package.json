@@ -1,5 +1,5 @@
 {
-    "name": "NODE-JS-JWT-AUTH",
+    "name": "jwt-auth-api",
     "version": "1.0.0",
     "description": "Node.js Demo for JWT Authentication",
     "main": "server.js",
